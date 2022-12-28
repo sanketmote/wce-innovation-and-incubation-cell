@@ -1,0 +1,19 @@
+{
+  "name": "wce_innovation_and_incubation_cell_server",
+  "version": "1.0.0",
+  "description": "wce innovation and incubation cell",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sanket mote , wce",
+  "license": "ISC",
+  "dependencies": {
+    "basic-utils": "^2.2.1",
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "mysql2": "^2.3.3",
+    "sequelize": "^6.28.0"
+  }
+}
